@@ -7,7 +7,7 @@
         {
             "taskName": "build",
             "args": [
-                "${workspaceRoot}/netcore.csproj"
+                "${workspaceRoot}/FakeGirlFriend/FakeGirlFriend.csproj"
             ],
             "isBuildCommand": true,
             "problemMatcher": "$msCompile"
